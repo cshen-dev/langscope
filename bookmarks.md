@@ -3,6 +3,10 @@ layout: page
 title: Bookmarks
 ---
 
+# Daily
+- [InfoQ](https://www.infoq.com/)
+- [Stackshare](https://stackshare.io/)
+
 # Develop
 - [React](https://reactjs.org/)
 - [Angular](https://angular.io/)
