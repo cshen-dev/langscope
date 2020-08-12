@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming languages and domains
+title: ':books: Programming languages and domains'
 ---
 
 # Conclusion

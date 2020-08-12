@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Bookmarks
+title: ':bookmark: Bookmarks'
 ---
 
-# Daily
+# :star: Daily 
 - [InfoQ](https://www.infoq.com/)
 - [Stackshare](https://stackshare.io/)
 
-# Develop
+# :sunny: Develop
 - [React](https://reactjs.org/)
 - [Angular](https://angular.io/)
 - [Vue.js](https://vuejs.org/)
@@ -21,14 +21,14 @@ title: Bookmarks
 - [GitHub](https://github.com/)
 - [Docker](https://www.docker.com/)
 
-# Architect
+# :cloud: Architect
 - [Microservices](https://microservices.io/)
 - [Martin Fowler](https://martinfowler.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
 - [Grails Framework](https://grails.org/)
 - [NestJS](https://docs.nestjs.com/)
 
-# Niche
+# :cyclone: Niche
 - [cppreference.com](https://en.cppreference.com/w/)
 - [lazyparser/v8-internals](https://github.com/lazyparser/v8-internals/)
 - [Top Interview Questions - LeetCode](https://leetcode.com/problemset/all/?listId=wpwgkgt)

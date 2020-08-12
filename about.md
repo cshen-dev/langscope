@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: ':cow: About'
 ---
 
-# Skill Tree
+# :evergreen_tree: Skill Tree
 
 ## I. Language based
 
@@ -51,14 +51,14 @@ title: About
 |                                             | Java        | \+ Foundation of Big Data                          | 22.27% |
 
 
-# Background
+# :rice_scene: Background
 I'm currently a full stack web developer though I hope I can be called a software engineer or a problem solver.
 
 When I was young I was fasinated by the Internet. So a pick network engineering as my major in the university, where I thought network engineering is all about Internet. I was halfly right if you insist there are still heavy relationship between those two terms. Fortunately, I got the chance to take a master degree in software engineer, which enpower myself and make me understand what's actually behind the Internet - Computaiton, storage and distribution of information.
 
 Polyglot developer currently good at full stack web development. Due to my care of end users, frontend skills are pretty decent. However I'm open to positions that give me more change exploring backend stacks and devops workflow. Any guide towards cloud engineer is appreciated.
 
-# Tech Interests
+# :heart: Tech Interests
 I enjoy reading anything about software architecture or design pattern. 
 
 Client side application development including Android native, IOS native, Web frontend is my current strength.
