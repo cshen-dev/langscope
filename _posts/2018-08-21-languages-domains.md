@@ -3,7 +3,8 @@ layout: post
 title: ':books: Programming languages and domains'
 ---
 
-# Conclusion
+## Summary
+Programming languages are grouped based on their specific contributing domains.
 
 1. Frontend
 JavaScript, TypeScript
@@ -18,50 +19,51 @@ Java, Scala
 6. Machine Learning & Data Mining Python, R
 7. System Programming & Infrastructure C/C++, Go
 
-# Sources
+## Statistics data
+Stars of popular GitHub open source repositories are collected and categorised.
 
-## Node.js
+### Node.js
 
-### Light-weight web framework 
+#### Light-weight web framework 
 
 | Express.js | 39.6k |
 | Koa | 22.5k |
 | Hapi | 9.8k |
 | Fastify | 7.7k |
 
-### Heavy-weight web framework 
+#### Heavy-weight web framework 
 
 | Meteor | 40.1k |
 | Sails.js | 19.4k |
 | Nest | 7.7k |
 
-### RESTful framework
+#### RESTful framework
 
 | Loopback | 11.5k |
 | Feathers | 9.5k |
 | Restify | 8.5k |
 
-### CMF
+#### CMF
 
 | Keysone.js | 13.1k |
 | Strapi | 6.7k |
 
-### WebSockets
+#### WebSockets
 
 | socket.io | 43.1k |
 
-### Serverless
+#### Serverless
 
 | serverless | 25k |
 
-## JavaScript
+### JavaScript
 
-### Tutorials
+#### Tutorials
 
 | freeCodeCamp | 294k |
 | airbnb js style guide | 75.7k |
 
-### Single Page Application
+#### Single Page Application
 
 | Vue.js | 113k |
 | React.js | 111k |
@@ -71,7 +73,7 @@ Java, Scala
 | Data Visualisation d3 | 78.5k |
 | Chart.js | 39.2k |
 
-### Asset
+#### Asset
 
 | Font-Awesome | 57.4k |
 | Webpack | 43.8k |
@@ -88,13 +90,13 @@ Java, Scala
 | bulma | 29.7k |
 | foundation-sites | 27.6k |
 
-### DOM
+#### DOM
 
 | jQuery | 49.9k |
 
-## Python
+### Python
 
-### Tools 
+#### Tools 
 
 | youtube-dl | 41.3k |
 | httpie | 37.2k |
@@ -102,13 +104,13 @@ Java, Scala
 | certbot | 23.1k | 
 | you-get | 20.1k |
 
-### Web crawling
+#### Web crawling
 
 | requests | 34.5k |
 | scrapy | 29k |
 | pyspider | 11.9k |
 
-### Machine Learning 
+#### Machine Learning 
 
 | keras | 33.2k |
 | scikit-learn | 30.4k |
@@ -117,7 +119,7 @@ Java, Scala
 | numpy | 8k |
 | scipy | 4.9k |
 
-### Web Frameworks
+#### Web Frameworks
 
 | Flask | 38.3k |
 | Django | 35.9k |
@@ -125,83 +127,83 @@ Java, Scala
 | uWSGI | 2.2k |
 | gunicorn | 5.1k |
 
-### Non-blocking Web Frameworks
+#### Non-blocking Web Frameworks
 
 | Tornado | 16.4k | Linux (with epoll) and BSD (with kqueue) |
 | gevent | 4.3k | Fast event loop based on libev or libuv. |
 | greenlets. | | gevent is inspired by eventlet but features a more consistent API, simpler implementation and better performance. |
 | Eventlet | 0.7k | epoll or kqueue or libevent |
 
-### Web Utilities
+#### Web Utilities
 
 | Werkzeug WSGI toolkit | 4.2k |
 
-## C++
+### C++
 
-### Machine Learning
+#### Machine Learning
 
 | tensorflow | 109k |
 | opencv | 27.4k |
 | xgboost | 13.4k |
 
-### Desktop
+#### Desktop
 
 | electron | 64.2k |
 | nw.js | 34.3k |
 
-### Database 
+#### Database 
 
 | rethinkdb | 21.8k |
 | leveldb | 14.8k |
 | mongoldb | 14.5k |
 
-### Coin
+#### Coin
 
 | bitcoin | 34.5k |
 
-## C
+### C
 
 ### OS
 
 | Linux | 62.7k |
 
-### Cache
+#### Cache
 
 | redis | 31.2k |
 | memcached | 8.1k |
 
-### Tools
+#### Tools
 
 | git | 23.9k |
 | vim | 13.9k |
 | tux | 11.2k |
 
-### Media
+#### Media
 
 | FFmpeg | 12.1k |
 
-### Network
+#### Network
 
 | libuv | 10.3k |
 | curl | 9.4k |
 | openssl | 8.1k |
 
-## Go
+### Go
 
-### Container
+#### Container
 
 | moby | 50.2k |
 | kubernetes | 41.1k |
 
-### Web
+#### Web
 
 | hugo | 28.5k |
 | gin | 20.3k |
 
-### Git 
+#### Git 
 
 | service dogs | 26.9k |
 
-### Coins
+#### Coins
 
 | ethereum | 20.5k |

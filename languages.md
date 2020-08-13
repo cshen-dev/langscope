@@ -3,10 +3,12 @@ layout: page
 title: ':computer: PLP'
 ---
 
-# :boom: Programming Language Popularity
+## Programming Language Popularity
 
-## I. RedMonk Programming Language Rankings
-[1. :paperclip: June 2020](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/?utm_source=rss&utm_medium=rss&utm_campaign=language-rankings-6-20)
+As a developer, I normally follow the trend of programming languages to understand the job market better. The popularity of these languages not only impact daily development but also refect the tech trend. Because programming languages come with frequently used domains. Say PHP, Ruby for web development, swift for iOS, scala for big data, python / R for data analysis. Roughly, we can predict if the era of AI has come based on the ranking of languages.
+
+### I. RedMonk Programming Language Rankings
+[:round_pushpin: June 2020 Report](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/?utm_source=rss&utm_medium=rss&utm_campaign=language-rankings-6-20)
 
 | No.  | Language    |
 | ---- | ----------- |
@@ -32,10 +34,10 @@ title: ':computer: PLP'
 | 20   | Rust        |
 
 
-## II. PYPL PopularitY of Programming Language
+### II. PYPL PopularitY of Programming Language
 [:octocat: Entrypoint](http://pypl.github.io/PYPL.html)
 
-## III. GitHut 2.0
+### III. GitHut 2.0
 [:octocat: Feb 2020 Pull Request Order](https://madnight.github.io/githut/#/pull_requests/2020/2)
 
 [:octocat: Feb 2020 Starts Order](https://madnight.github.io/githut/#/stars/2020/2)

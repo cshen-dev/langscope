@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mushroom Cloud
+title: "Mushroom :cloud:"
 description: >- # this means to ignore newlines until "baseurl:"
-  It's a place to checkout my thoughts
+  This is a personal blog for just that guy self :laughing:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mushrchun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-author: MushrChun
+author: "MushrChun :cow:"
 
 github_username: mushrchun
 
