@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ':triangular_flag_on_post: The RedMonk Rankings: January 2019'
+title: ':triangular_flag_on_post: Jan 2019 RedMonk Rankings'
 ---
 
 

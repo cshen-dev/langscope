@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ':books: Programming Language Domains Analysis'
+title: ':books: Prog Lang Domain Analysis'
 ---
 
 ## Summary
