@@ -1,15 +1,14 @@
 ---
 layout: page
-title: ':heart: About'
+title: 'Others'
 ---
-
-# :bookmark: Bookmark
+# Bookmarks
 
 **:star: Daily**
 - [InfoQ](https://www.infoq.com/)
 - [Stackshare](https://stackshare.io/)
 
-**:wrench: Tools**
+**:wrench: Develop**
 - [React](https://reactjs.org/)
 - [Angular](https://angular.io/)
 - [Vue.js](https://vuejs.org/)
@@ -35,7 +34,7 @@ title: ':heart: About'
 - [lazyparser/v8-internals](https://github.com/lazyparser/v8-internals/)
 - [Top Interview Questions - LeetCode](https://leetcode.com/problemset/all/?listId=wpwgkgt)
 
-# :heart: Skill pyramid 
+# Skill pyramid 
 
 **:evergreen_tree: Language based skill tree**
 
@@ -62,15 +61,15 @@ title: ':heart: About'
 | Category                                    | Language    | Comment                                            |
 | ------------------------------------------- | ----------- | -------------------------------------------------- |
 | 1. Web development                          | Javascript  | Essential to Frontend   dev                       |
-|                                             | Python      | Tool, Security, Test, Web, Spider, Machine learning             |
-|                                             | Ruby        | Web Agile Dev                                   |
+| +                                           | Python      | Tool, Security, Test, Web, Spider, Machine learning             |
+| +                                           | Ruby        | Web Agile Dev                                   |
 | 2. Mobile development                       | Java        | Android |
-|                                             | Kotlin      | Android |
-|                                             | Objective-C | iOS     |
-|                                             | Swift       | iOS     |
+| +                                           | Kotlin      | Android |
+| +                                           | Objective-C | iOS     |
+| +                                           | Swift       | iOS     |
 | 3. Distributed computing & Machine learning | Scala       | Big data, Distributed computing, Machine learning |
-|                                             | Python      | Machine learning, Tools         |
-|                                             | Java        | Infrastructure of Big Data          |
+| +                                           | Python      | Machine learning, Tools         |
+| +                                           | Java        | Infrastructure of Big Data          |
 
 
 

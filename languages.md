@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ':computer: PLP'
+title: 'PLP'
 ---
 
 **Programming Language Popularity**
