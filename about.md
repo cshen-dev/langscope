@@ -1,24 +1,43 @@
 ---
 layout: page
-title: ':cow: About me'
+title: ':heart: About'
 ---
-## :rice_scene: Background
-I'm currently a full stack web developer albeit I hope I could work as a more generic software engineer or a problem solver.
 
-When I was young I was fascinated by the diversity of the Internet. So I picked network engineering as my major in the university, where I thought network engineering is all about building the Internet. I was half right after I notice network engineering offer the backbone of the Internet and information forms its blood. Fortunately, I got the chance to take a master degree in software engineer, which empower myself and make me understand what's actually behind the Internet - Computation, storage and distribution of information.
+# :bookmark: Bookmark
 
-based on this understanding, I'm keen to explore the world of the Internet during my lifetime
+**:star: Daily**
+- [InfoQ](https://www.infoq.com/)
+- [Stackshare](https://stackshare.io/)
 
-## :heart: Tech Interests
-I enjoy reading anything about software architecture or design pattern. 
+**:wrench: Tools**
+- [React](https://reactjs.org/)
+- [Angular](https://angular.io/)
+- [Vue.js](https://vuejs.org/)
+- [Babel](https://babeljs.io/)
+- [webpack](https://webpack.js.org/)
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ESLint](https://eslint.org/)
+- [Swagger](https://swagger.io/)
+- [Apollo GraphQL](https://www.apollographql.com/)
+- [GitHub](https://github.com/)
+- [Docker](https://www.docker.com/)
 
-Client-side application development including building Android native, iOS native and Web single page application is my current strength.
+**:tokyo_tower: Architect**
+- [Microservices](https://microservices.io/)
+- [Martin Fowler](https://martinfowler.com/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Grails Framework](https://grails.org/)
+- [NestJS](https://docs.nestjs.com/)
 
-Looking for more backend oriented positions such as cloud engineers.
+**:game_die: Niche**
+- [cppreference.com](https://en.cppreference.com/w/)
+- [lazyparser/v8-internals](https://github.com/lazyparser/v8-internals/)
+- [Top Interview Questions - LeetCode](https://leetcode.com/problemset/all/?listId=wpwgkgt)
 
-## :evergreen_tree: Skill Tree
+# :heart: Skill pyramid 
 
-### I. Language based
+**:evergreen_tree: Language based skill tree**
 
 - Javascript
     - Angular/React/Vue (Web Frontend Dev) 
@@ -37,18 +56,8 @@ Looking for more backend oriented positions such as cloud engineers.
     - Android-NDK (Mobile Development) 
     - OpenCV (Machine Learning)
 
-### II. Education Breakdowns
 
-1. Bachelor degree:
-    - Web application development 
-    - Web security
-
-2. Master degree:
-    - Distributed computing 
-    - Machine learning
-    - IT management
-
-### III. Skill Pool
+**:swimmer: Domain based skill pool**
 
 | Category                                    | Language    | Comment                                            |
 | ------------------------------------------- | ----------- | -------------------------------------------------- |

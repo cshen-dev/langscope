@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ':books: Programming languages and domains'
+title: ':books: Programming languages and their domains'
 ---
 
 ## Summary
