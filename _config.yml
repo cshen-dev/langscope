@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "mushrchun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-author: ":cow: mushrchun"
+author: ":cow: cshen.dev"
 
 github_username: mushrchun
 
