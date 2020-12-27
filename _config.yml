@@ -27,7 +27,7 @@ url: "mushrchun.github.io" # the base hostname & protocol for your site, e.g. ht
 
 author: ":cow: mushrchun"
 
-# github_username: mushrchun
+github_username: mushrchun
 
 # Build settings
 theme: minima
