@@ -3,44 +3,20 @@ layout: post
 title: ':books: Prog Lang Domain Analysis'
 ---
 
-## Summary
-Programming languages are grouped based on their specific contributing domains.
+## Prog Langs :left_right_arrow: Domains
 
-1. Frontend: JavaScript, TypeScript
-2. Backend: Java, C#, PHP, Python, Ruby, Node.js
-3. Mobile: Java, Kotlin, Objective-C, Swift
-4. Testing, Operating: Shell, Perl, Python, Ruby
-5. Big Data: Java, Scala
-6. Machine Learning & Data Mining: Python, R
-7. System Programming & Infrastructure: C/C++, Go
+1. Frontend: JavaScript, TypeScript, Node.js
+2. Backend: Java, C#, PHP, Python, Ruby, Node.js, Go
+3. Mobile Dev: Java, Kotlin, Objective-C, Swift
+4. Testing, Scripting: Shell, Perl, Python, Ruby
+5. Big Data: Java, Scala, Python
+6. Machine Learning & Data Analysis: Python, R
+7. System Programming: C/C++
 
-## Statistics data
-Stars of popular GitHub open source repositories are collected and categorised.
 
-### Node.js
+## Github Top Prog Langs :left_right_arrow: Top Repos
 
-| **Light-weight web framework** |
-| Express.js | 39.6k |
-| Koa | 22.5k |
-| Hapi | 9.8k |
-| Fastify | 7.7k |
-| **Heavy-weight web framework** |
-| Meteor | 40.1k |
-| Sails.js | 19.4k |
-| Nest | 7.7k |
-| **RESTful framework** |
-| Loopback | 11.5k |
-| Feathers | 9.5k |
-| Restify | 8.5k |
-| **CMF** |
-| Keysone.js | 13.1k |
-| Strapi | 6.7k |
-| **WebSockets** |
-| socket.io | 43.1k |
-| **Serverless** |
-| serverless | 25k |
-
-### JavaScript
+**JavaScript**
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
@@ -51,7 +27,8 @@ Stars of popular GitHub open source repositories are collected and categorised.
 | Redux.js | 43.7k |
 | React-router | 32.3k |
 | Angular.js | 59k |
-| Data Visualisation d3 | 78.5k |
+| **Data Visualisation** |
+| d3 | 78.5k |
 | Chart.js | 39.2k |
 | **Asset** |
 | Font-Awesome | 57.4k |
@@ -71,7 +48,43 @@ Stars of popular GitHub open source repositories are collected and categorised.
 | **DOM** |
 | jQuery | 49.9k |
 
-### Python
+**Node.js**
+
+| **Light-weight web framework** |
+| Express.js | 39.6k |
+| Koa | 22.5k |
+| Hapi | 9.8k |
+| Fastify | 7.7k |
+| **Heavy-weight web framework** |
+| Meteor | 40.1k |
+| Sails.js | 19.4k |
+| Nest.js | 7.7k |
+| **RESTful framework** |
+| Loopback | 11.5k |
+| Feathers | 9.5k |
+| Restify | 8.5k |
+| **CMF** |
+| Keysone.js | 13.1k |
+| Strapi | 6.7k |
+| **WebSockets** |
+| socket.io | 43.1k |
+| **Serverless** |
+| serverless | 25k |
+
+**Go**
+
+| **Container** |
+| moby | 50.2k |
+| kubernetes | 41.1k |
+| **Web** |
+| hugo | 28.5k |
+| gin | 20.3k |
+| **Git** |
+| service dogs | 26.9k |
+| **Coins** |
+| ethereum | 20.5k |
+
+**Python**
 
 | **Tools** |
 | youtube-dl | 41.3k |
@@ -103,23 +116,7 @@ Stars of popular GitHub open source repositories are collected and categorised.
 | **Web Utilities** |
 | Werkzeug WSGI toolkit | 4.2k |
 
-### C++
-
-| **Machine Learning** |
-| tensorflow | 109k |
-| opencv | 27.4k |
-| xgboost | 13.4k |
-| **Desktop** |
-| electron | 64.2k |
-| nw.js | 34.3k |
-| **Database** |
-| rethinkdb | 21.8k |
-| leveldb | 14.8k |
-| mongoldb | 14.5k |
-| **Coin** |
-| bitcoin | 34.5k |
-
-### C
+**C**
 
 | **OS** |
 | Linux | 62.7k |
@@ -137,15 +134,19 @@ Stars of popular GitHub open source repositories are collected and categorised.
 | curl | 9.4k |
 | openssl | 8.1k |
 
-### Go
+**C++**
 
-| **Container** |
-| moby | 50.2k |
-| kubernetes | 41.1k |
-| **Web** |
-| hugo | 28.5k |
-| gin | 20.3k |
-| **Git** |
-| service dogs | 26.9k |
-| **Coins** |
-| ethereum | 20.5k |
+| **Machine Learning** |
+| tensorflow | 109k |
+| opencv | 27.4k |
+| xgboost | 13.4k |
+| **Desktop** |
+| electron | 64.2k |
+| nw.js | 34.3k |
+| **Database** |
+| rethinkdb | 21.8k |
+| leveldb | 14.8k |
+| mongoldb | 14.5k |
+| **Coin** |
+| bitcoin | 34.5k |
+
