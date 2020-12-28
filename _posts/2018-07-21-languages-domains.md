@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ':books: Prog Lang Domain Analysis'
+title: 'Prog Lang Domain Analysis'
 ---
 
 ## Prog Langs :left_right_arrow: Domains
