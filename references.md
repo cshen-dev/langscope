@@ -4,10 +4,10 @@ title: 'References'
 ---
 
 
-- [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+- [The RedMonk Programming Language Rankings: June 2018](https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18) (*Measured against Github and Stack Overflow*)
 
-- [TIOBE Index](https://tiobe.com/tiobe-index/)
+- [GitHut 2.0: stars/2018/2](https://madnight.github.io/githut/#/stars/2018/2) (*Measured against Github only*)
 
-- [RedMonk Tecosystems](https://redmonk.com/sogrady)
+- [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)  (*Measured against Google Trends*)
 
-- [GitHut 2.0](https://madnight.github.io/githut/#/stars)
+- [TIOBE Index](https://tiobe.com/tiobe-index/) (*Measured against the number of web pages with the language name*)
