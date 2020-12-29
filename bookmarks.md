@@ -4,6 +4,10 @@ title: 'Bookmarks'
 ---
 
 **:star: Daily**
+- [Feedly](https://feedly.com/)
+- [Overcast](https://overcast.fm/)
+- [Notion](https://www.notion.so/)
+- [GitHub](https://github.com/)
 - [InfoQ](https://www.infoq.com/)
 - [Stackshare](https://stackshare.io/)
 
@@ -18,7 +22,6 @@ title: 'Bookmarks'
 - [ESLint](https://eslint.org/)
 - [Swagger](https://swagger.io/)
 - [Apollo GraphQL](https://www.apollographql.com/)
-- [GitHub](https://github.com/)
 - [Docker](https://www.docker.com/)
 
 **:tokyo_tower: Architect**
