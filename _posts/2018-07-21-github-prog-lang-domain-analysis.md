@@ -1,22 +1,11 @@
 ---
 layout: post
-title: 'Prog Lang Domain Analysis'
+title: 'Github Prog Lang Domain Analysis'
 ---
 
-## Prog Langs :left_right_arrow: Domains
+*Github Top Prog Langs with Most Popular Repos*
 
-1. Frontend: JavaScript, TypeScript, Node.js
-2. Backend: Java, C#, PHP, Python, Ruby, Node.js, Go
-3. Mobile Dev: Java, Kotlin, Objective-C, Swift
-4. Testing, Scripting: Shell, Perl, Python, Ruby
-5. Big Data: Java, Scala, Python
-6. Machine Learning & Data Analysis: Python, R
-7. System Programming: C/C++
-
-
-## Github Top Prog Langs :left_right_arrow: Top Repos
-
-**JavaScript**
+**JavaScript** [Labels: Frontend UI / Animation]
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
@@ -48,7 +37,7 @@ title: 'Prog Lang Domain Analysis'
 | **DOM** |
 | jQuery | 49.9k |
 
-**Node.js**
+**Node.js** [Labels: Web Frontend Pipeline / Web Backend / Network / Concurrency]
 
 | **Light-weight web framework** |
 | Express.js | 39.6k |
@@ -71,7 +60,7 @@ title: 'Prog Lang Domain Analysis'
 | **Serverless** |
 | serverless | 25k |
 
-**Go**
+**Go** [Labels: Web Backend / Network / Concurrency]
 
 | **Container** |
 | moby | 50.2k |
@@ -84,7 +73,7 @@ title: 'Prog Lang Domain Analysis'
 | **Coins** |
 | ethereum | 20.5k |
 
-**Python**
+**Python** [Labels: Scripting / Data Analytic / Machine Learning / Web Backend / Network / Concurrency]
 
 | **Tools** |
 | youtube-dl | 41.3k |
@@ -116,7 +105,7 @@ title: 'Prog Lang Domain Analysis'
 | **Web Utilities** |
 | Werkzeug WSGI toolkit | 4.2k |
 
-**C**
+**C** [Labels: System Programming / Infrastructure  Application]
 
 | **OS** |
 | Linux | 62.7k |
@@ -134,7 +123,7 @@ title: 'Prog Lang Domain Analysis'
 | curl | 9.4k |
 | openssl | 8.1k |
 
-**C++**
+**C++** [Labels: Infrastructure  Application / Machine Learning]
 
 | **Machine Learning** |
 | tensorflow | 109k |
