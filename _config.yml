@@ -29,6 +29,8 @@ author: ":cow: cshen.dev"
 
 github_username: mushrchun
 
+google_analytics: UA-186404509-1
+
 # Build settings
 theme: minima
 plugins:
