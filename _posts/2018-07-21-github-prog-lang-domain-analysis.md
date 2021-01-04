@@ -129,18 +129,13 @@ title: 'Github Prog Lang Domain Analysis'
 | elasticsearch | 32.1k |
 | flink | 10.1k |
 
-**JVM: Groovy / Scala** [Label: Web Backend / Scripting / Distributed Computing]
+**Groovy** [Label: Web Backend / Scripting]
 
 | **Tool** |
 | gradle | 10.1k |
 | rundeck | 3.2k |
-| prisma1 | 12.6k |
 | **Web Frameworks** |
 | grails-core | 2.1k |
-| playframework | 11.2k |
-| **Distributed Computing** |
-| spark | 21.4k |
-| predictionio | 10.5k |
 
 **Ruby** [Labels: Web Backend / Automation / Tools]
 
