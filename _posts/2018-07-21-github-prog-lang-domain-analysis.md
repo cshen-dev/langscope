@@ -3,7 +3,7 @@ layout: post
 title: 'Github Prog Lang Domain Analysis'
 ---
 
-*Github Top Prog Langs with Most Popular Repos*
+*[Github Top Prog Langs with Most Popular Repos](https://github.com/search?o=desc&q=stars%3A%3E0&s=stars&type=Repositories)*
 
 **JavaScript** [Labels: Frontend UI / Animation]
 
@@ -21,12 +21,8 @@ title: 'Github Prog Lang Domain Analysis'
 | Chart.js | 39.2k |
 | **Asset** |
 | Font-Awesome | 57.4k |
-| Webpack | 43.8k |
 | html5-boilerplate | 41.3k |
 | material-ui | 40.1k |
-| Gulp | 30.2k |
-| Babel | 29.5k |
-| Prettier | 27.2k |
 | bootstrap | 127k |
 | animate.css | 54k |
 | material-design-icons | 35.9k |
@@ -34,8 +30,12 @@ title: 'Github Prog Lang Domain Analysis'
 | material-design-lite | 30.6k |
 | bulma | 29.7k |
 | foundation-sites | 27.6k |
-| **DOM** |
+| **Tools** |
 | jQuery | 49.9k |
+| Webpack | 43.8k |
+| Gulp | 30.2k |
+| Babel | 29.5k |
+| Prettier | 27.2k |
 
 **Node.js** [Labels: Web Frontend Pipeline / Web Backend / Network / Concurrency]
 
@@ -87,18 +87,16 @@ title: 'Github Prog Lang Domain Analysis'
 | gunicorn | 5.1k |
 | **Non-blocking Web Frameworks** |
 | Tornado | 16.4k |
-| gevent | 4.3k |
-| Eventlet | 0.7k |
 | **Web Utilities** |
+| gevent | 4.3k |
 | Werkzeug WSGI toolkit | 4.2k |
+| Eventlet | 0.7k |
 
-**Java** [Label: Web Backend / Big Data / Distributed Computing / Android]
+**Java** [Label: Web Backend / Android / Middleware / Distributed Computing]
 
 | **Tutorials** |
 | java-design-patterns | 36.8k |
 | interviews | 30.9k |
-| **Search** |
-| elasticsearch | 32.1k |
 | **Web Frameworks** |
 | spring-boot | 32.3k |
 | spring-framework | 27.2k |
@@ -128,9 +126,42 @@ title: 'Github Prog Lang Domain Analysis'
 | dubbo | 26.2k |
 | kafka | 12.7k |
 | **Distributed Computing** |
+| elasticsearch | 32.1k |
 | flink | 10.1k |
 
-**Go** [Labels: Web Backend / Network / Concurrency]
+**JVM: Groovy / Scala** [Label: Web Backend / Scripting / Distributed Computing]
+
+| **Tool** |
+| gradle | 10.1k |
+| rundeck | 3.2k |
+| prisma1 | 12.6k |
+| **Web Frameworks** |
+| grails-core | 2.1k |
+| playframework | 11.2k |
+| **Distributed Computing** |
+| spark | 21.4k |
+| predictionio | 10.5k |
+
+**Ruby** [Labels: Web Backend / Automation / Tools]
+
+| **Web** |
+| rails | 42.1k |
+| jekyll | 38.3k |
+| discourse | 30.1k |
+| gitlabhq | 19.1k |
+| diaspora | 10.1k |
+| sinatra | 10.0k |
+| **Automation / Tools** |
+| fastlane | 27.5k |
+| huginn | 27.5k |
+| brew | 21.5k |
+| devdocs | 19.5k |
+| vagrant | 17.5k |
+| logstash | 10.5k |
+| capistrano | 10.2k |
+
+
+**Go** [Labels: Web Backend / Network / Concurrency / Cryptocurrency]
 
 | **Container** |
 | moby | 50.2k |
@@ -143,7 +174,7 @@ title: 'Github Prog Lang Domain Analysis'
 | **Coins** |
 | ethereum | 20.5k |
 
-**C++** [Labels: Infrastructure  Application / Machine Learning]
+**C++** [Labels: Machine Learning / Infrastructure  Application / Cryptocurrency]
 
 | **Machine Learning** |
 | tensorflow | 109k |
