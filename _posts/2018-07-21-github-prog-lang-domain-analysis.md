@@ -5,7 +5,7 @@ title: 'Github Prog Lang Domain Analysis'
 
 *[Github Top Prog Langs with Most Popular Repos](https://github.com/search?o=desc&q=stars%3A%3E0&s=stars&type=Repositories)*
 
-**JavaScript** [Labels: Frontend UI / Animation]
+**JavaScript** [Labels: Web Frontend]
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
@@ -16,6 +16,7 @@ title: 'Github Prog Lang Domain Analysis'
 | Redux.js | 43.7k |
 | React-router | 32.3k |
 | Angular.js | 59k |
+| jQuery | 49.9k |
 | **Data Visualisation** |
 | d3 | 78.5k |
 | Chart.js | 39.2k |
@@ -30,14 +31,8 @@ title: 'Github Prog Lang Domain Analysis'
 | material-design-lite | 30.6k |
 | bulma | 29.7k |
 | foundation-sites | 27.6k |
-| **Tools** |
-| jQuery | 49.9k |
-| Webpack | 43.8k |
-| Gulp | 30.2k |
-| Babel | 29.5k |
-| Prettier | 27.2k |
 
-**Node.js** [Labels: Web Frontend Pipeline / Web Backend / Network / Concurrency]
+**Node.js** [Labels: Web Backend / Tools]
 
 | **Light-weight web framework** |
 | Express.js | 39.6k |
@@ -57,10 +52,16 @@ title: 'Github Prog Lang Domain Analysis'
 | Strapi | 6.7k |
 | **WebSockets** |
 | socket.io | 43.1k |
+| **Tools** |
+| Webpack | 43.8k |
+| Gulp | 30.2k |
+| Babel | 29.5k |
+| Prettier | 27.2k |
 | **Serverless** |
 | serverless | 25k |
 
-**Python** [Labels: Scripting / Data Analytic / Machine Learning / Web Backend / Network / Concurrency]
+
+**Python** [Labels: Tools / Information Retrieval / Machine Learning / Web Backend]
 
 | **Tools** |
 | youtube-dl | 41.3k |
@@ -92,7 +93,7 @@ title: 'Github Prog Lang Domain Analysis'
 | Werkzeug WSGI toolkit | 4.2k |
 | Eventlet | 0.7k |
 
-**Java** [Label: Web Backend / Android / Middleware / Distributed Computing]
+**Java** [Labels: Web Backend / Android / Middleware / Distributed Computing]
 
 | **Tutorials** |
 | java-design-patterns | 36.8k |
@@ -129,9 +130,9 @@ title: 'Github Prog Lang Domain Analysis'
 | elasticsearch | 32.1k |
 | flink | 10.1k |
 
-**Groovy** [Label: Web Backend / Scripting]
+**Groovy** [Labels: Tools / Web Backend]
 
-| **Tool** |
+| **Tools** |
 | gradle | 10.1k |
 | rundeck | 3.2k |
 | **Web Frameworks** |
