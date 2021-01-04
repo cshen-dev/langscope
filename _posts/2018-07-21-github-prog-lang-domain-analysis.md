@@ -156,19 +156,6 @@ title: 'Github Prog Lang Domain Analysis'
 | capistrano | 10.2k |
 
 
-**Go** [Labels: Web Backend / Network / Concurrency / Cryptocurrency]
-
-| **Container** |
-| moby | 50.2k |
-| kubernetes | 41.1k |
-| **Web** |
-| hugo | 28.5k |
-| gin | 20.3k |
-| **Git** |
-| service dogs | 26.9k |
-| **Coins** |
-| ethereum | 20.5k |
-
 **C++** [Labels: Machine Learning / Infrastructure  Application / Cryptocurrency]
 
 | **Machine Learning** |
