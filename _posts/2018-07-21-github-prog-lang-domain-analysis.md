@@ -60,19 +60,6 @@ title: 'Github Prog Lang Domain Analysis'
 | **Serverless** |
 | serverless | 25k |
 
-**Go** [Labels: Web Backend / Network / Concurrency]
-
-| **Container** |
-| moby | 50.2k |
-| kubernetes | 41.1k |
-| **Web** |
-| hugo | 28.5k |
-| gin | 20.3k |
-| **Git** |
-| service dogs | 26.9k |
-| **Coins** |
-| ethereum | 20.5k |
-
 **Python** [Labels: Scripting / Data Analytic / Machine Learning / Web Backend / Network / Concurrency]
 
 | **Tools** |
@@ -105,23 +92,56 @@ title: 'Github Prog Lang Domain Analysis'
 | **Web Utilities** |
 | Werkzeug WSGI toolkit | 4.2k |
 
-**C** [Labels: System Programming / Infrastructure  Application]
+**Java** [Label: Web Backend / Big Data / Distributed Computing / Android]
 
-| **OS** |
-| Linux | 62.7k |
-| **Cache** |
-| redis | 31.2k |
-| memcached | 8.1k |
-| **Tools** |
-| git | 23.9k |
-| vim | 13.9k |
-| tux | 11.2k |
-| **Media** |
-| FFmpeg | 12.1k |
-| **Network** |
-| libuv | 10.3k |
-| curl | 9.4k |
-| openssl | 8.1k |
+| **Tutorials** |
+| java-design-patterns | 36.8k |
+| interviews | 30.9k |
+| **Search** |
+| elasticsearch | 32.1k |
+| **Web Frameworks** |
+| spring-boot | 32.3k |
+| spring-framework | 27.2k |
+| **Non-blocking Web Frameworks** |
+| netty | 19.7k |
+| **Utilities** |
+| RxJava | 29.3k |
+| guava | 28.5k |
+| okhttp | 27.9k |
+| retrofit | 26.3k |
+| zxing | 18.9k |
+| jadx | 17.7k |
+| fastjson | 15.9k |
+| gson | 14.6k |
+| bazel | 11k |
+| **Android** |
+| glide | 20.5k |
+| AndroidUtilCode | 19.6k |
+| butterknife | 18.6k |
+| EventBus | 16.1k |
+| fresco | 12.4k |
+| **Testing / Automation** |
+| selenium | 13.5k |
+| jenkins | 11.7k |
+| Hystrix | 15.9k |
+| **Middleware** |
+| dubbo | 26.2k |
+| kafka | 12.7k |
+| **Distributed Computing** |
+| flink | 10.1k |
+
+**Go** [Labels: Web Backend / Network / Concurrency]
+
+| **Container** |
+| moby | 50.2k |
+| kubernetes | 41.1k |
+| **Web** |
+| hugo | 28.5k |
+| gin | 20.3k |
+| **Git** |
+| service dogs | 26.9k |
+| **Coins** |
+| ethereum | 20.5k |
 
 **C++** [Labels: Infrastructure  Application / Machine Learning]
 
@@ -139,3 +159,20 @@ title: 'Github Prog Lang Domain Analysis'
 | **Coin** |
 | bitcoin | 34.5k |
 
+**C** [Labels: System Programming / Infrastructure  Application]
+
+| **OS** |
+| Linux | 62.7k |
+| **Cache** |
+| redis | 31.2k |
+| memcached | 8.1k |
+| **Tools** |
+| git | 23.9k |
+| vim | 13.9k |
+| tux | 11.2k |
+| **Media** |
+| FFmpeg | 12.1k |
+| **Network** |
+| libuv | 10.3k |
+| curl | 9.4k |
+| openssl | 8.1k |
