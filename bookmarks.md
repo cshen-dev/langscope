@@ -20,16 +20,16 @@ title: 'Bookmarks'
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ESLint](https://eslint.org/)
-- [Swagger](https://swagger.io/)
 - [Apollo GraphQL](https://www.apollographql.com/)
+- [Swagger](https://swagger.io/)
 - [Docker](https://www.docker.com/)
 
 **:tokyo_tower: Architect**
 - [Microservices](https://microservices.io/)
 - [Martin Fowler](https://martinfowler.com/)
-- [Ruby on Rails](https://rubyonrails.org/)
-- [Grails Framework](https://grails.org/)
 - [NestJS](https://docs.nestjs.com/)
+- [Grails Framework](https://grails.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 
 **:game_die: Niche**
 - [cppreference.com](https://en.cppreference.com/w/)
