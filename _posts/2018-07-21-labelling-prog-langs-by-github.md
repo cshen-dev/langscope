@@ -1,11 +1,18 @@
 ---
 layout: post
-title: 'Github Prog Lang Domain Analysis'
+title: 'Labelling Prog Langs by Github'
 ---
 
-*[Github Top Prog Langs with Most Popular Repos](https://github.com/search?o=desc&q=stars%3A%3E0&s=stars&type=Repositories)*
 
-**JavaScript** [Labels: Web Frontend]
+Curated programming languages that are mostly used by myself:
+
+1. [JavaScript / Node.js](#first) - *Web Frontend / Web Backend / Tools*
+2. [Python](#second) - *Tools / Information Retrieval / Machine Learning / Web Backend*
+3. [Java / Groovy](#third) - *Web Backend / Android / Middleware / Distributed Computing*
+4. [Ruby](#forth) - *Web Backend / Automation / Tools*
+5. [C/C++](#fifth) - *System Programming / Machine Learning / Infrastructure  Application*
+
+**<a name="first">1. JavaScript / Node.js</a>** [Labels: Web Frontend / Web Backend / Tools]
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
@@ -31,9 +38,6 @@ title: 'Github Prog Lang Domain Analysis'
 | material-design-lite | 30.6k |
 | bulma | 29.7k |
 | foundation-sites | 27.6k |
-
-**Node.js** [Labels: Web Backend / Tools]
-
 | **Light-weight web framework** |
 | Express.js | 39.6k |
 | Koa | 22.5k |
@@ -61,7 +65,7 @@ title: 'Github Prog Lang Domain Analysis'
 | serverless | 25k |
 
 
-**Python** [Labels: Tools / Information Retrieval / Machine Learning / Web Backend]
+**<a name="second">2. Python</a>** [Labels: Tools / Information Retrieval / Machine Learning / Web Backend]
 
 | **Tools** |
 | youtube-dl | 41.3k |
@@ -93,7 +97,7 @@ title: 'Github Prog Lang Domain Analysis'
 | Werkzeug WSGI toolkit | 4.2k |
 | Eventlet | 0.7k |
 
-**Java** [Labels: Web Backend / Android / Middleware / Distributed Computing]
+**<a name="third">3. Java / Groovy</a>** [Labels: Web Backend / Android / Middleware / Distributed Computing]
 
 | **Tutorials** |
 | java-design-patterns | 36.8k |
@@ -101,6 +105,7 @@ title: 'Github Prog Lang Domain Analysis'
 | **Web Frameworks** |
 | spring-boot | 32.3k |
 | spring-framework | 27.2k |
+| grails-core | 2.1k |
 | **Non-blocking Web Frameworks** |
 | netty | 19.7k |
 | **Utilities** |
@@ -113,6 +118,7 @@ title: 'Github Prog Lang Domain Analysis'
 | fastjson | 15.9k |
 | gson | 14.6k |
 | bazel | 11k |
+| gradle | 10.1k |
 | **Android** |
 | glide | 20.5k |
 | AndroidUtilCode | 19.6k |
@@ -130,15 +136,8 @@ title: 'Github Prog Lang Domain Analysis'
 | elasticsearch | 32.1k |
 | flink | 10.1k |
 
-**Groovy** [Labels: Tools / Web Backend]
 
-| **Tools** |
-| gradle | 10.1k |
-| rundeck | 3.2k |
-| **Web Frameworks** |
-| grails-core | 2.1k |
-
-**Ruby** [Labels: Web Backend / Automation / Tools]
+**<a name="forth">4. Ruby</a>** [Labels: Web Backend / Automation / Tools]
 
 | **Web** |
 | rails | 42.1k |
@@ -157,8 +156,10 @@ title: 'Github Prog Lang Domain Analysis'
 | capistrano | 10.2k |
 
 
-**C++** [Labels: Machine Learning / Infrastructure  Application / Cryptocurrency]
+**<a name="fifth">5. C / C++</a>** [Labels: System Programming / Machine Learning / Infrastructure Application]
 
+| **OS** |
+| Linux | 62.7k |
 | **Machine Learning** |
 | tensorflow | 109k |
 | opencv | 27.4k |
@@ -166,27 +167,26 @@ title: 'Github Prog Lang Domain Analysis'
 | **Desktop** |
 | electron | 64.2k |
 | nw.js | 34.3k |
+| **Cache** |
+| redis | 31.2k |
+| memcached | 8.1k |
 | **Database** |
 | rethinkdb | 21.8k |
 | leveldb | 14.8k |
 | mongoldb | 14.5k |
 | **Coin** |
 | bitcoin | 34.5k |
-
-**C** [Labels: System Programming / Infrastructure  Application]
-
-| **OS** |
-| Linux | 62.7k |
-| **Cache** |
-| redis | 31.2k |
-| memcached | 8.1k |
+| **Media** |
+| FFmpeg | 12.1k |
 | **Tools** |
 | git | 23.9k |
 | vim | 13.9k |
 | tux | 11.2k |
-| **Media** |
-| FFmpeg | 12.1k |
 | **Network** |
 | libuv | 10.3k |
 | curl | 9.4k |
 | openssl | 8.1k |
+
+
+*[Github Top Prog Langs with Most Popular Repos](https://github.com/search?o=desc&q=stars%3A%3E0&s=stars&type=Repositories)*
+
