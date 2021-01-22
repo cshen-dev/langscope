@@ -9,6 +9,9 @@ Curated programming languages that are mostly used by myself:
 1. [JavaScript / Node.js](#first) - *Web Frontend / Web Backend / Tools*
 2. [Java / Groovy](#second) - *Web Backend / Android / Middleware / Distributed Computing*
 3. [Ruby](#third) - *Web Backend / Automation / Tools*
+
+
+
 4. [Python](#forth) - *Tools / Information Retrieval / Machine Learning / Web Backend*
 5. [C / C++](#fifth) - *System Programming / Machine Learning / Infrastructure  Application*
 
