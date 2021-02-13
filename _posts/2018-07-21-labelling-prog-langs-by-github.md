@@ -6,7 +6,7 @@ title: 'Labelling Prog Langs by Github'
 
 Curated programming languages that are mostly used by myself:
 
-1. [JavaScript / Node.js](#first) - *Web Frontend / Web Backend / Tools*
+1. [JavaScript / TypeScript](#first) - *Web Frontend / Web Backend / Tools*
 2. [Java / Groovy](#second) - *Web Backend / Android / Middleware / Distributed Computing*
 3. [Ruby](#third) - *Web Backend / Automation / Tools*
 
@@ -15,7 +15,7 @@ Curated programming languages that are mostly used by myself:
 4. [Python](#forth) - *Tools / Information Retrieval / Machine Learning / Web Backend*
 5. [C / C++](#fifth) - *System Programming / Machine Learning / Infrastructure  Application*
 
-**<a name="first">JavaScript / Node.js</a>** [Labels: Web Frontend / Web Backend / Tools]
+**<a name="first">JavaScript / TypeScript</a>** [Labels: Web Frontend / Web Backend / Tools]
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
