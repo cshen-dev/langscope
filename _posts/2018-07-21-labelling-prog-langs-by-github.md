@@ -89,6 +89,7 @@ title: 'Labelling Prog Langs by Github'
 | Werkzeug WSGI toolkit | 4.2k |
 | Eventlet | 0.7k |
 
+
 **Java** [Labels: Web Backend / Android / Middleware / Distributed Computing]
 
 | **Tutorials** |
@@ -127,25 +128,6 @@ title: 'Labelling Prog Langs by Github'
 | **Distributed Computing** |
 | elasticsearch | 32.1k |
 | flink | 10.1k |
-
-
-**Ruby** [Labels: Web Backend / Automation / Tools]
-
-| **Web** |
-| rails | 42.1k |
-| jekyll | 38.3k |
-| discourse | 30.1k |
-| gitlabhq | 19.1k |
-| diaspora | 10.1k |
-| sinatra | 10.0k |
-| **Automation / Tools** |
-| fastlane | 27.5k |
-| huginn | 27.5k |
-| brew | 21.5k |
-| devdocs | 19.5k |
-| vagrant | 17.5k |
-| logstash | 10.5k |
-| capistrano | 10.2k |
 
 
 **C / C++** [Labels: System Programming / Machine Learning / Infrastructure Application]
