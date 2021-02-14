@@ -4,18 +4,7 @@ title: 'Labelling Prog Langs by Github'
 ---
 
 
-Curated programming languages that are mostly used by myself:
-
-1. [JavaScript / TypeScript](#first) - *Web Frontend / Web Backend / Tools*
-2. [Java / Groovy](#second) - *Web Backend / Android / Middleware / Distributed Computing*
-3. [Ruby](#third) - *Web Backend / Automation / Tools*
-
-
-
-4. [Python](#forth) - *Tools / Information Retrieval / Machine Learning / Web Backend*
-5. [C / C++](#fifth) - *System Programming / Machine Learning / Infrastructure  Application*
-
-**<a name="first">JavaScript / TypeScript</a>** [Labels: Web Frontend / Web Backend / Tools]
+**JavaScript** [Labels: Web Frontend / Web Backend / Tools]
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
@@ -68,7 +57,7 @@ Curated programming languages that are mostly used by myself:
 | serverless | 25k |
 
 
-**<a name="forth">Python</a>** [Labels: Tools / Information Retrieval / Machine Learning / Web Backend]
+**Python** [Labels: Tools / Information Retrieval / Machine Learning / Web Backend]
 
 | **Tools** |
 | youtube-dl | 41.3k |
@@ -100,7 +89,7 @@ Curated programming languages that are mostly used by myself:
 | Werkzeug WSGI toolkit | 4.2k |
 | Eventlet | 0.7k |
 
-**<a name="second">Java / Groovy</a>** [Labels: Web Backend / Android / Middleware / Distributed Computing]
+**Java** [Labels: Web Backend / Android / Middleware / Distributed Computing]
 
 | **Tutorials** |
 | java-design-patterns | 36.8k |
@@ -140,7 +129,7 @@ Curated programming languages that are mostly used by myself:
 | flink | 10.1k |
 
 
-**<a name="third">Ruby</a>** [Labels: Web Backend / Automation / Tools]
+**Ruby** [Labels: Web Backend / Automation / Tools]
 
 | **Web** |
 | rails | 42.1k |
@@ -159,7 +148,7 @@ Curated programming languages that are mostly used by myself:
 | capistrano | 10.2k |
 
 
-**<a name="fifth">C / C++</a>** [Labels: System Programming / Machine Learning / Infrastructure Application]
+**C / C++** [Labels: System Programming / Machine Learning / Infrastructure Application]
 
 | **OS** |
 | Linux | 62.7k |
