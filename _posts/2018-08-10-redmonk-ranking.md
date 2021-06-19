@@ -4,28 +4,28 @@ title: '[Jun 2018] - RedMonk Rankings'
 ---
 
 
-| No.  | Language    |
-| ---: | :---------- |
-| 1    | JavaScript  |
-| 2    | Jave        |
-| 3    | Python      |
-| 4    | PHP         |
-| 5    | C#          |
-| 6    | C++         |
-| 7    | CSS         |
-| 8    | Ruby        |
-| 9    | C           |
-| 9    | Objective-C |
-| 11   | Swift       |
-| 12   | Scala       |
-| 12   | Shell       |
-| 14   | Go          |
-| 14   | R           |
-| 16   | TypeScript  |
-| 17   | PowerShell  |
-| 18   | Perl        |
-| 19   | Haskell     |
-| 20   | Lua         |
+| No.  | Language    | Change                          |
+| ---: | ----------- | --------------------------------|
+| 1    | JavaScript  |:diamond_shape_with_a_dot_inside:|
+| 2    | Jave        |:diamond_shape_with_a_dot_inside:|
+| 3    | Python      |:diamond_shape_with_a_dot_inside:|
+| 4    | PHP         |:diamond_shape_with_a_dot_inside:|
+| 5    | C#          |:diamond_shape_with_a_dot_inside:|
+| 6    | C++         |:diamond_shape_with_a_dot_inside:|
+| 7    | CSS         |:diamond_shape_with_a_dot_inside:|
+| 8    | Ruby        |:diamond_shape_with_a_dot_inside:|
+| 9    | C           |:diamond_shape_with_a_dot_inside:|
+| 9    | Objective-C |:diamond_shape_with_a_dot_inside:|
+| 11   | Swift       |:diamond_shape_with_a_dot_inside:|
+| 12   | Scala       |:diamond_shape_with_a_dot_inside:|
+| 12   | Shell       |:diamond_shape_with_a_dot_inside:|
+| 14   | Go          |:diamond_shape_with_a_dot_inside:|
+| 14   | R           |:diamond_shape_with_a_dot_inside:|
+| 16   | TypeScript  |:diamond_shape_with_a_dot_inside:|
+| 17   | PowerShell  |:diamond_shape_with_a_dot_inside:|
+| 18   | Perl        |:diamond_shape_with_a_dot_inside:|
+| 19   | Haskell     |:diamond_shape_with_a_dot_inside:|
+| 20   | Lua         |:diamond_shape_with_a_dot_inside:|
 
 
 [:link: Report - June 2018 ](https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18)
