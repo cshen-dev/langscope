@@ -4,28 +4,28 @@ title: '[Jun 2018] - RedMonk Rankings'
 ---
 
 
-| No.  | Language    | Change                          |
-| ---: | ----------- | --------------------------------|
-| 1    | JavaScript  |:diamond_shape_with_a_dot_inside:|
-| 2    | Jave        |:diamond_shape_with_a_dot_inside:|
-| 3    | Python      |:diamond_shape_with_a_dot_inside:|
-| 4    | PHP         |:diamond_shape_with_a_dot_inside:|
-| 5    | C#          |:diamond_shape_with_a_dot_inside:|
-| 6    | C++         |:diamond_shape_with_a_dot_inside:|
-| 7    | CSS         |:diamond_shape_with_a_dot_inside:|
-| 8    | Ruby        |:diamond_shape_with_a_dot_inside:|
-| 9    | C           |:diamond_shape_with_a_dot_inside:|
-| 9    | Objective-C |:diamond_shape_with_a_dot_inside:|
-| 11   | Swift       |:diamond_shape_with_a_dot_inside:|
-| 12   | Scala       |:diamond_shape_with_a_dot_inside:|
-| 12   | Shell       |:diamond_shape_with_a_dot_inside:|
-| 14   | Go          |:diamond_shape_with_a_dot_inside:|
-| 14   | R           |:diamond_shape_with_a_dot_inside:|
-| 16   | TypeScript  |:diamond_shape_with_a_dot_inside:|
-| 17   | PowerShell  |:diamond_shape_with_a_dot_inside:|
-| 18   | Perl        |:diamond_shape_with_a_dot_inside:|
-| 19   | Haskell     |:diamond_shape_with_a_dot_inside:|
-| 20   | Lua         |:diamond_shape_with_a_dot_inside:|
+| Rank | Language    | Trend             |
+| ---: | ----------- | ------------------|
+| 1    | JavaScript  |:heavy_check_mark: |
+| 2    | Jave        |:heavy_check_mark: |
+| 3    | Python      |:heavy_check_mark: |
+| 4    | PHP         |:heavy_check_mark: |
+| 5    | C#          |:heavy_check_mark: |
+| 6    | C++         |:heavy_check_mark: |
+| 7    | CSS         |:heavy_check_mark: |
+| 8    | Ruby        |:heavy_check_mark: |
+| 9    | C           |:heavy_check_mark: |
+| 9    | Objective-C |:heavy_check_mark: |
+| 11   | Swift       |:heavy_check_mark: |
+| 12   | Scala       |:heavy_check_mark: |
+| 12   | Shell       |:heavy_check_mark: |
+| 14   | Go          |:heavy_check_mark: |
+| 14   | R           |:heavy_check_mark: |
+| 16   | TypeScript  |:heavy_check_mark: |
+| 17   | PowerShell  |:heavy_check_mark: |
+| 18   | Perl        |:heavy_check_mark: |
+| 19   | Haskell     |:heavy_check_mark: |
+| 20   | Lua         |:heavy_check_mark: |
 
 
 [:link: Report - June 2018 ](https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18)

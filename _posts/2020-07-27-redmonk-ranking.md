@@ -4,27 +4,27 @@ title: '[Jun 2020] - RedMonk Rankings'
 ---
 
 
-| No.  | Language    | Change                          |
-| ---: | ----------- | --------------------------------|
-| 1    | JavaScript  |:diamond_shape_with_a_dot_inside:|
-| 2    | Python      |:diamond_shape_with_a_dot_inside:|
-| 3    | Java        |:diamond_shape_with_a_dot_inside:|
-| 4    | PHP         |:diamond_shape_with_a_dot_inside:|
-| 5    | C++         |:small_red_triangle:            1|
-| 5    | C#          |:small_red_triangle_down:       1|
-| 7    | Ruby        |:diamond_shape_with_a_dot_inside:|
-| 7    | CSS         |:diamond_shape_with_a_dot_inside:|
-| 9    | TypeScript  |:diamond_shape_with_a_dot_inside:|
-| 10   | C           |:small_red_triangle_down:       1|
-| 11   | Swift       |:diamond_shape_with_a_dot_inside:|
-| 11   | Objective-C |:small_red_triangle:            1|
-| 13   | R           |:diamond_shape_with_a_dot_inside:|
-| 14   | Scala       |:small_red_triangle_down:       1|
-| 15   | Go          |:diamond_shape_with_a_dot_inside:|
-| 15   | Shell       |:diamond_shape_with_a_dot_inside:|
-| 17   | PowerShell  |:diamond_shape_with_a_dot_inside:|
-| 18   | Perl        |:diamond_shape_with_a_dot_inside:|
-| 19   | Kotlin      |:diamond_shape_with_a_dot_inside:|
-| 20   | Rust        |:new:                            |
+| Rank | Language    | Trend             |
+| ---: | ----------- | ------------------|
+| 1    | JavaScript  |:heavy_check_mark: |
+| 2    | Python      |:heavy_check_mark: |
+| 3    | Java        |:heavy_check_mark: |
+| 4    | PHP         |:heavy_check_mark: |
+| 5    | C++         |:heavy_plus_sign:  |
+| 5    | C#          |:heavy_minus_sign: |
+| 7    | Ruby        |:heavy_check_mark: |
+| 7    | CSS         |:heavy_check_mark: |
+| 9    | TypeScript  |:heavy_check_mark: |
+| 10   | C           |:heavy_minus_sign: |
+| 11   | Swift       |:heavy_check_mark: |
+| 11   | Objective-C |:heavy_plus_sign:  |
+| 13   | R           |:heavy_check_mark: |
+| 14   | Scala       |:heavy_minus_sign: |
+| 15   | Go          |:heavy_check_mark: |
+| 15   | Shell       |:heavy_check_mark: |
+| 17   | PowerShell  |:heavy_check_mark: |
+| 18   | Perl        |:heavy_check_mark: |
+| 19   | Kotlin      |:heavy_check_mark: |
+| 20   | Rust        |:new:              |
 
 [:link: Report - June 2020](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20)
