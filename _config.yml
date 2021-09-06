@@ -22,12 +22,12 @@ title: "Prog Langs :telescope:  Lookout"
 description: >- # this means to ignore newlines until "baseurl:"
   Tracking programming languages' trend
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "mushrchun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "cshen-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author: ":cow: cshen.dev"
 
-github_username: mushrchun
+github_username: cshen-dev
 
 google_analytics: UA-186404509-1
 
