@@ -8,6 +8,8 @@ gem install bundler jekyll
 ## Bootstrap
 ```
 bundle exec jekyll serve
+
+bundle exec jekyll serve --draft
 ```
 
 ## Reference
