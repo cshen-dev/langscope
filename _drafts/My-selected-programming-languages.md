@@ -15,7 +15,7 @@ title: 'My selected programming languages'
 
 ### DevOps 
 
-2. :soon:  Shell / Python / Go
+3. :soon:  Shell / Python / Go
 
 ### Rapid Prototype
 
