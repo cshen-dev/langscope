@@ -4,18 +4,13 @@ title: 'My selected programming languages'
 ---
 
 
-### Origin
+### Web Application Development
+1. :end: JavaScript
+2. :end: Java [JVM]
+3. :end: Ruby
 
-- :end: Ruby
-
-### Frontend
-
-1. :end:  JavaScript | TypeScript
-
-### Backend 
-
-2. :end: Groovy | Java | Kotlin
 
 ### DevOps 
-
-3. :on: Python / Go
+4. :on: Shell
+5. :on: Python
+6. :on: Go
