@@ -4,7 +4,7 @@ title: 'Labelling Prog Langs by Github'
 ---
 
 
-**JavaScript** [Labels: Web Frontend / Web Backend / Tools]
+**JavaScript** [Labels: Web Frontend / Web Backend / Utilities]
 
 | **Tutorials** |
 | freeCodeCamp | 294k |
@@ -15,7 +15,6 @@ title: 'Labelling Prog Langs by Github'
 | Redux.js | 43.7k |
 | React-router | 32.3k |
 | Angular.js | 59k |
-| jQuery | 49.9k |
 | **Data Visualisation** |
 | d3 | 78.5k |
 | Chart.js | 39.2k |
@@ -48,7 +47,9 @@ title: 'Labelling Prog Langs by Github'
 | Strapi | 6.7k |
 | **WebSockets** |
 | socket.io | 43.1k |
-| **Tools** |
+| **Libraries** |
+| jQuery | 49.9k |
+| **Utilities** |
 | Webpack | 43.8k |
 | Gulp | 30.2k |
 | Babel | 29.5k |
@@ -57,15 +58,15 @@ title: 'Labelling Prog Langs by Github'
 | serverless | 25k |
 
 
-**Python** [Labels: Tools / Information Retrieval / Machine Learning / Web Backend]
+**Python** [Labels: Utilities / Data Science / Web Backend]
 
-| **Tools** |
+| **Utilities** |
 | youtube-dl | 41.3k |
 | httpie | 37.2k |
 | thefuck | 37k |
 | certbot | 23.1k | 
 | you-get | 20.1k |
-| **Web crawling** |
+| **Web Crawling** |
 | requests | 34.5k |
 | scrapy | 29k |
 | pyspider | 11.9k |
@@ -84,13 +85,13 @@ title: 'Labelling Prog Langs by Github'
 | gunicorn | 5.1k |
 | **Non-blocking Web Frameworks** |
 | Tornado | 16.4k |
-| **Web Utilities** |
+| **Libraries** |
 | gevent | 4.3k |
 | Werkzeug WSGI toolkit | 4.2k |
 | Eventlet | 0.7k |
 
 
-**Java** [Labels: Web Backend / Android / Middleware / Distributed Computing]
+**Java** [Labels: Web Backend / Android / Distributed Computing]
 
 | **Tutorials** |
 | java-design-patterns | 36.8k |
@@ -101,15 +102,17 @@ title: 'Labelling Prog Langs by Github'
 | grails-core | 2.1k |
 | **Non-blocking Web Frameworks** |
 | netty | 19.7k |
-| **Utilities** |
+| **Libraries** |
 | RxJava | 29.3k |
 | guava | 28.5k |
 | okhttp | 27.9k |
 | retrofit | 26.3k |
+| dubbo | 26.2k |
 | zxing | 18.9k |
-| jadx | 17.7k |
 | fastjson | 15.9k |
 | gson | 14.6k |
+| **Utilities** |
+| jadx | 17.7k |
 | bazel | 11k |
 | gradle | 10.1k |
 | **Android** |
@@ -121,16 +124,14 @@ title: 'Labelling Prog Langs by Github'
 | **Testing / Automation** |
 | selenium | 13.5k |
 | jenkins | 11.7k |
-| Hystrix | 15.9k |
-| **Middleware** |
-| dubbo | 26.2k |
-| kafka | 12.7k |
 | **Distributed Computing** |
 | elasticsearch | 32.1k |
+| Hystrix | 15.9k |
+| kafka | 12.7k |
 | flink | 10.1k |
 
 
-**C / C++** [Labels: System Programming / Machine Learning / Infrastructure Application]
+**C / C++** [Labels: System Programming / Machine Learning / Desktop / Database / Utilities]
 
 | **OS** |
 | Linux | 62.7k |
@@ -152,14 +153,14 @@ title: 'Labelling Prog Langs by Github'
 | bitcoin | 34.5k |
 | **Media** |
 | FFmpeg | 12.1k |
-| **Tools** |
+| **Utilities** |
 | git | 23.9k |
 | vim | 13.9k |
 | tux | 11.2k |
-| **Network** |
-| libuv | 10.3k |
 | curl | 9.4k |
 | openssl | 8.1k |
+| **Libraries** |
+| libuv | 10.3k |
 
 
 *[Github Top Prog Langs with Most Popular Repos](https://github.com/search?o=desc&q=stars%3A%3E0&s=stars&type=Repositories)*
