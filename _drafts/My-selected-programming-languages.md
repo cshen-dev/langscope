@@ -5,7 +5,7 @@ title: 'My selected programming languages'
 
 
 ### Web Application Development
-1. :end: JavaScript
+1. :end: JavaScript / TypeScript
 2. :end: Java [JVM]
 3. :end: Ruby
 
