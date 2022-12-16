@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Labelling Prog Langs by Github'
+title: 'Labelling Prog Langs by GitHub'
 ---
 
 
