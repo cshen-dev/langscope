@@ -1,0 +1,298 @@
+---
+layout: home
+---
+<h1>Programming Language Ranking Chart</h1>
+<canvas id="mainChart" height="250"></canvas>
+<br>
+<figure>
+  <figcaption>Reference</figcaption>
+  <ul>
+    <li><a href="https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18">Redmond Report - June 2018</a></li>
+    <li><a href="https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19">Redmond Report - January 2019</a></li>
+    <li><a href="https://redmonk.com/sogrady/2019/07/18/language-rankings-6-19">Redmond Report - June 2019</a></li>
+    <li><a href="https://redmonk.com/sogrady/2020/02/28/language-rankings-1-20">Redmond Report - January 2020</a></li>
+    <li><a href="https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20">Redmond Report - June 2020</a></li>
+    <li><a href="https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21">Redmond Report - January 2021</a></li>
+    <li><a href="https://redmonk.com/sogrady/2021/08/05/language-rankings-6-21">Redmond Report - June 2021</a></li>
+    <li><a href="https://redmonk.com/sogrady/2022/03/28/language-rankings-1-22">Redmond Report - January 2022</a></li>
+    <li><a href="https://redmonk.com/sogrady/2022/10/20/language-rankings-6-22">Redmond Report - June 2022</a></li>
+  </ul>
+</figure>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('mainChart');
+
+  const redmonkData = {{ site.data.redmonk | jsonify }}
+
+  const labels = Object.keys(redmonkData)
+
+  function getLanguages(redmonkData) {
+    const languages = new Set()
+
+    Object.values(redmonkData).forEach(block => {
+      block.forEach(value => {
+        languages.add(value.language.trim())
+      })
+    })
+
+    return Array.from(languages)
+  }
+
+  function prepareLanguageColors(languages) {
+    return languages.map(language => {
+      let languageWithColor = null
+      switch (language) {
+        case 'Java':
+          languageWithColor = {
+            name: language,
+            borderColor: '#E6141C',
+            backgroundColor: '#E6141C'
+          }
+          break
+        case 'JavaScript':
+          languageWithColor = {
+            name: language,
+            borderColor: '#EED919',
+            backgroundColor: '#EED919'
+          }
+          break
+        case 'Python':
+          languageWithColor = {
+            name: language,
+            borderColor: '#3574A5',
+            backgroundColor: '#3574A5'
+          }
+          break
+        case 'PHP':
+          languageWithColor = {
+            name: language,
+            borderColor: '#777BB3',
+            backgroundColor: '#777BB3'
+          }
+          break
+        case 'C#':
+          languageWithColor = {
+            name: language,
+            borderColor: '#1E9E25',
+            backgroundColor: '#1E9E25'
+          }
+          break
+        case 'C++':
+          languageWithColor = {
+            name: language,
+            borderColor: '#6295CD',
+            backgroundColor: '#6295CD'
+          }
+          break
+        case 'Ruby':
+          languageWithColor = {
+            name: language,
+            borderColor: '#AF1503',
+            backgroundColor: '#AF1503'
+          }
+          break
+        case 'C':
+          languageWithColor = {
+            name: language,
+            borderColor: '#A9BACD',
+            backgroundColor: '#A9BACD'
+          }
+          break
+        case 'Objective-C':
+          languageWithColor = {
+            name: language,
+            borderColor: '#C2955E',
+            backgroundColor: '#C2955E'
+          }
+          break
+        case 'Swift':
+          languageWithColor = {
+            name: language,
+            borderColor: '#FF5D2A',
+            backgroundColor: '#FF5D2A'
+          }
+          break
+        case 'Scala':
+          languageWithColor = {
+            name: language,
+            borderColor: '#FF3A24',
+            backgroundColor: '#FF3A24'
+          }
+          break
+        case 'Shell':
+          languageWithColor = {
+            name: language,
+            borderColor: '#444d50',
+            backgroundColor: '#444d50'
+          }
+          break
+        case 'Go':
+          languageWithColor = {
+            name: language,
+            borderColor: '#1DAFD8',
+            backgroundColor: '#1DAFD8'
+          }
+          break
+        case 'R':
+          languageWithColor = {
+            name: language,
+            borderColor: '#3269C6',
+            backgroundColor: '#3269C6'
+          }
+          break
+        case 'TypeScript':
+          languageWithColor = {
+            name: language,
+            borderColor: '#397CC7',
+            backgroundColor: '#397CC7'
+          }
+          break
+        case 'PowerShell':
+          languageWithColor = {
+            name: language,
+            borderColor: '#171D25',
+            backgroundColor: '#171D25'
+          }
+          break
+        case 'Perl':
+          languageWithColor = {
+            name: language,
+            borderColor: '#383A58',
+            backgroundColor: '#383A58'
+          }
+          break
+        case 'Haskell':
+          languageWithColor = {
+            name: language,
+            borderColor: '#63548B',
+            backgroundColor: '#63548B'
+          }
+          break
+        case 'Lua':
+          languageWithColor = {
+            name: language,
+            borderColor: '#080884',
+            backgroundColor: '#080884'
+          }
+          break
+        case 'Kotlin':
+          languageWithColor = {
+            name: language,
+            borderColor: '#6941C1',
+            backgroundColor: '#6941C1'
+          }
+          break
+        case 'Rust':
+          languageWithColor = {
+            name: language,
+            borderColor: '#C43D31',
+            backgroundColor: '#C43D31'
+          }
+          break
+        case 'Dart':
+          languageWithColor = {
+            name: language,
+            borderColor: '#01BEAE',
+            backgroundColor: '#01BEAE'
+          }
+          break
+        case 'CSS':
+          languageWithColor = {
+            name: language,
+            borderColor: '#F7CB63',
+            backgroundColor: '#F7CB63'
+          }
+          break
+        default:
+          languageWithColor = {
+            name: language,
+            borderColor: '#FF6384',
+            backgroundColor: '#FFB1C1'
+          }
+          break
+      }
+
+      return languageWithColor
+    })
+  }
+
+  const languages = getLanguages(redmonkData)
+  const languagesWithColors = prepareLanguageColors(languages)
+
+  const datasets = languagesWithColors.map(languageWithColor => {
+    return {
+      label: languageWithColor.name,
+      data: [],
+      borderWidth: 2,
+      borderColor: languageWithColor.borderColor,
+      backgroundColor: languageWithColor.backgroundColor
+    }
+  })
+
+  function difference(arrA, arrB) {
+    return arrA.filter(x => !arrB.includes(x))
+  }
+
+  function fillDatasets(redmonkData, datasets) {
+    Object.values(redmonkData).forEach(block => {
+
+      const languagesWithinBlock = block.map(value => value.language.trim())
+
+      block.forEach(value => {
+        let target = datasets.find(e => e.label == value.language.trim())
+
+        target.data.push(value.rank)
+      })
+
+      const gap = difference(languages, languagesWithinBlock)
+
+      gap.forEach(value => {
+        let target = datasets.find(e => e.label == value)
+
+        target.data.push(null)
+      })
+    })
+  }
+
+  fillDatasets(redmonkData, datasets)
+
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets
+    },
+    options: {
+      animations: {
+        tension: {
+          duration: 2000,
+          easing: 'linear',
+          from: 0.35,
+          to: 0,
+          loop: true
+        }
+      },
+      interaction: {
+        intersect: false
+      },
+      scales: {
+        y: {
+          ticks: {
+            stepSize: 1
+          },
+          grid: {
+            display: false
+          }
+        }
+      },
+      elements: {
+        point: {
+          pointStyle: false,
+          radius: 2
+        }
+      },
+    }
+  });
+</script>
