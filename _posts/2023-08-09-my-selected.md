@@ -11,6 +11,7 @@ title: ':full_moon_with_face: My selected programming languages'
 
 
 ### DevOps 
-1. Shell
-2. Python
-3. Go
+1. Python
+2. Go
+3. Shell
+
