@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Langscope :telescope:"
+title: "C.Shen's Langscope :telescope:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cshen-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
