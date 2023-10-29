@@ -7,7 +7,7 @@ With the rise of microservices, organizations are increasingly using multiple pr
 
 However, not all programming languages have official SDKs for all three cloud providers. To make it easier for developers to choose a language, I have compiled a list of safe choices for application development with AWS, GCP, or Azure.
 
-**4** script languages:
+**4** scripting languages:
 - Javascript
 - Python  
 - PHP
