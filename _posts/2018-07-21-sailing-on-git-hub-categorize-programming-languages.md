@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sailing on GitHub: Categorize Programming Languages :label:'
+title: 'Sailing on GitHub: Categorize programming languages :label:'
 ---
 
 _[Github Top Prog Langs with Most Popular Repos](https://github.com/search?o=desc&q=stars%3A%3E10000&s=stars&type=Repositories)_

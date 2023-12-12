@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Best Programming Languages for My Interests :full_moon_with_face:'
+title: 'Best programming languages for my interests :full_moon_with_face:'
 ---
 
 ### Web / Mobile App Development
