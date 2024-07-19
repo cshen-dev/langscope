@@ -18,19 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "c.shen-dev's langscope :telescope:"
+title: "Charlie's Langscope :telescope:"
 baseurl: "/langscope" # the subpath of your site, e.g. /blog
 url: "https://cshen-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: "A page about programming languages trends especially for software developer newbies."
 
-author: "cshen.dev"
-
-google_analytics: UA-186404509-1
+author:
+  name: "Charlie Shen"
+  email: "cshen.dev@gmail.com"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/cshen-dev" }
+    - {
+        platform: linkedin,
+        user_url: "https://www.linkedin.com/in/chun-charlie-shen/",
+      }
+
+header_pages:
+  - reference.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
