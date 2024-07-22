@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Charlie's Langscope :telescope:"
+title: "Langscope :telescope:"
 baseurl: "/langscope" # the subpath of your site, e.g. /blog
 url: "https://cshen-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 description: "A page about programming languages trends especially for software developer newbies."
 
 author:
-  name: "Charlie Shen"
+  name: "cshen-dev"
   email: "cshen.dev@gmail.com"
 
 # Build settings
@@ -36,11 +36,7 @@ plugins:
 minima:
   skin: auto
   social_links:
-    - { platform: github, user_url: "https://github.com/cshen-dev" }
-    - {
-        platform: linkedin,
-        user_url: "https://www.linkedin.com/in/chun-charlie-shen/",
-      }
+    - { platform: github, user_url: "https://github.com/cshen-dev/langscope" }
 
 header_pages:
   - reference.md
